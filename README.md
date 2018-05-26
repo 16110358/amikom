@@ -1,0 +1,2 @@
+# amikom
+Priject pertama github
